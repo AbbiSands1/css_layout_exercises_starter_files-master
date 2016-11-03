@@ -1,0 +1,117 @@
+img { width: 100%;}
+.container{
+	width: 90%;
+	margin:auto;
+}
+.red-box{
+	width:300px; 
+	height:400px;
+	background-color:red;
+	margin: 20px;
+	
+	float: left;
+	border: 5px solid black;
+
+}
+.yellow-box{
+	width:300px; 
+	height:400px;
+	background-color:yellow;
+	margin: 20px;
+	
+	float: left;
+	border: 5px solid black;
+}
+
+	.blue-box{
+	width:300px; 
+	height:400px;
+	background-color:#00C7FF;
+	margin: 20px;
+	
+	float: left;
+	border: 5px solid black;
+	
+}
+
+
+	.orange-box{
+	width:300px; 
+	height:400px;
+	background-color:orange;
+    margin: 20px;
+   
+	    float: left;
+	    border: 5px solid black;
+
+}
+
+
+	.purple-box{
+	width:300px; 
+	height:400px;
+	background-color:purple;
+	margin: 20px;
+	
+	float: left;
+	border: 5px solid black;
+
+}
+
+
+	.grey-box{
+	width:300px; 
+	height:400px;
+	background-color:#00FF19;
+		margin: 20px;
+	float: left;
+border: 5px solid black;
+}
+
+ .bl-box{
+	width:300px; 
+	height:400px;
+	background-color:yellow;
+		margin: 20px;
+	float: left;
+border: 5px solid black;
+}
+
+
+.yu-box{
+	width:300px; 
+	height:400px;
+	background-color:#00C7FF;
+		margin: 20px;
+	float: left;
+border: 5px solid black;
+}
+
+
+.gi-box{
+	width:300px; 
+	height:400px;
+	background-color:orange;
+		margin: 20px;
+	float: left;
+border: 5px solid black;
+}
+.oh-box{
+	width:300px; 
+	height:400px;
+	background-color:#00FF19;
+		margin: 20px;
+	float: left;
+border: 5px solid black;
+}
+
+.text { width: 80%
+height:100px;
+background-color: grey;
+border:2px solid black;}
+
+
+
+
+
+
